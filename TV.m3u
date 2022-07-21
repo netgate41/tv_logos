@@ -63,12 +63,8 @@ https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="1_ULUSAL_KANALLAR" logo="https://www.tv4.com.tr/assets/img/tv4fav.png", TV4 HD YEDEK
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
-#EXTINF:0 type="stream" channelId="3992" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png", A2 TR SD
-http://mugla.tvizlehd.com/live/a2tv.m3u8
-#EXTINF:0 type="stream" channelId="3992" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png", A2 TV SD YEDEK
-http://livesx.canlitv.center/a2tv.m3u8
 #EXTINF:0 type="stream" channelId="3992" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png", A2 HD
-http://84.22.33.214/A2/index.m3u8
+https://trkvz-live.ercdn.net/a2tv/a2tv_720p.m3u8?st=zi4b--8-mvzP7Utt3_uj2A&e=1658447676&SessionID=1.3.1202625427.1658402296&StreamGroup=canli-yayin&Site=&DeviceGroup=web&referrerSiteId=0fe2a405-8afa-4238-b429-e5f96aec3a5c
 #EXTINF:0 type="stream" channelId="4632" group="1_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/f/np/13872/Thumbnail.png?v=636996545585843191", SHOWMAX HD
 http://lives2.canlitv.center/showmax2.m3u8
 #EXTINF:0 type="stream" channelId="4632" group="1_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/f/np/13872/Thumbnail.png?v=636996545585843191", SHOWMAX
